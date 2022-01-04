@@ -2,7 +2,7 @@
 
 I am a event sourced real time data enthuisast primearly focused on building open source software attempting to make robust building blocks for product developers.
 
-Check out [valkyr](https://github.com/kdoemon/valkyr) for my ongoing efforts.
+Check out [valkyr](https://github.com/kodemon/valkyr) for my ongoing efforts.
 
 <!--
 **kodemon/kodemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
