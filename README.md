@@ -8,7 +8,7 @@ If you ever want to talk code or explore other topics concerning the mysteries o
 
 Check out my personal open source project [valkyr](https://github.com/kodemon/valkyr) for some insights in my after hour endeavours.
 
-### Tech Stacks
+### Technology
 
 I consider myself proficient with
 
@@ -26,10 +26,11 @@ I am currently studying and aiming to reach proficiency with
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat-square&logo=C%2B%2B)&nbsp;
 ![CSharp](https://img.shields.io/badge/-CSharp-05122A?style=flat-square&logo=CSharp&color=239120)&nbsp;
-![Blockchain](https://img.shields.io/badge/-Blockchain-05122A?style=flat-square&logo=Bitcoin&color=F7931A)&nbsp;
+![Blockchain](https://img.shields.io/badge/-Blockchain-05122A?style=flat-square&logo=Bitcoin&logoColor=black&color=F7931A)&nbsp;
 ![Svelte](https://img.shields.io/badge/-Svelte-05122A?style=flat-square&logo=Svelte&logoColor=white&color=FF3E00)
 
-### Analytics
+<br />
+<br />
 
 <p align="center">
  <a href="https://github.com/kodemon">
