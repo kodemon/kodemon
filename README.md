@@ -33,6 +33,6 @@ I am currently studying and aiming to reach proficiency with
 
 <p align="center">
  <a href="https://github.com/kodemon">
-  <img src="https://github-readme-stats.vercel.app/api?username=kodemon&theme=react&hide_border=true&hide_title=true" width="100%" />&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=kodemon&theme=react&hide_border=true&hide_title=true" />&nbsp;
  </a>
 </p>
