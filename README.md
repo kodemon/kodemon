@@ -33,7 +33,7 @@ I am currently studying and aiming to reach proficiency with
 
 <p align="center">
  <a href="https://github.com/kodemon">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kodemon" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kodemon&layout=compact"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kodemon&theme=react&hide_border=true&hide_title=true" />&nbsp;
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kodemon&layout=compact&theme=react&hide_border=true&hide_title=true"/>
  </a>
 </p>
