@@ -15,6 +15,7 @@ I consider myself proficient with
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat-square&logo=TypeScript&logoColor=white&color=3178C6)&nbsp;
 ![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat-square&logo=Node.js&logoColor=white&color=339933)&nbsp;
 ![EventSourcing](https://img.shields.io/badge/-EventSourcing-05122A?style=flat-square&logo=EventStore&logoColor=white)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat-square&logo=Angular&logoColor=white&color=DC382D)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=React&logoColor=black&color=61DAFB)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat-square&logo=HTML5&logoColor=white&color=E34F26)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat-square&logo=CSS3&logoColor=white&color=1572B6)&nbsp;
