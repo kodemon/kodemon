@@ -6,7 +6,7 @@ If you ever want to talk code or explore other topics concerning the mysteries o
 
 ### Projects
 
-Check out my personal open source project [valkyr](https://github.com/kodemon/valkyr) for some insights in my after hour endeavours.
+Check out my personal open source project [valkyr](https://github.com/cmdo/valkyr) for some insights in my after hour endeavours.
 
 ### Technology
 
